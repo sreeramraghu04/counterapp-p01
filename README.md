@@ -11,7 +11,7 @@ A simple counter app built using **React** and styled with **CSS**.
 ## Project Structure
 
 ```
- counter-app/
+ counterapp-p01/
  ├── src/
  │   ├── components/
  │   │   ├── Counter.js
